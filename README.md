@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @AbdellahElHilaly
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning full stack develop
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AbdellahElHilaly/AbdellahElHilaly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm @AbdellahElHilaly. I'm interested in web development and currently learning full stack development. I'm always looking for opportunities to collaborate and learn from other developers. My focus is on both front-end and back-end technologies, and I am constantly experimenting with new tools and techniques. Feel free to reach out to me through my GitHub profile for any collaboration opportunities or to connect with me in the development community. 💻🔥
